@@ -1,0 +1,15 @@
+{
+  "name": "domo",
+  "version": "1.0.0",
+  "description": "Domo Mucho Robo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "2.3.0"
+  }
+}
